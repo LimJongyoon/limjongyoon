@@ -24,20 +24,19 @@
 </a></span>
 
 - <p style="margin-top:12px;">
-※ The personal website has been newly redesigned. For the latest research and project information, please visit 
+※ The personal website has been newly redesigned. please visit 
 <a href="https://limjy.com" style="color:#1a73e8; font-weight:500;">https://limjy.com</a>.
 </p>
 <p style="margin-top:12px;">
-※ 개인 홈페이지가 새롭게 리뉴얼되었습니다. 최신 연구 및 프로젝트 정보는 
+※ 개인 홈페이지가 새롭게 리뉴얼되었습니다.
 <a href="https://limjy.com" style="color:#1a73e8; font-weight:500;">https://limjy.com</a> 에서 확인해 주세요.
 </p> 
 <p style="margin-top:12px;">
-※ 個人ホームページが新しくリニューアルされました。最新の研究およびプロジェクト情報は 
+※ 個人ホームページが新しくリニューアルされました。
 <a href="https://limjy.com" style="color:#1a73e8; font-weight:500;">https://limjy.com</a> にてご確認ください。
 </p>
 
-
-- <p style="font-size: 14px;">Interests: VR/AR, Games, Haptics, Multi Modal, Robotics</p>
+<br>
 
 <a href="https://scholar.google.co.kr/citations?user=5JElU_AAAAAJ&hl=en&oi=sra">
     <img src="icons/GS2.png" alt="GoogleScholar" height="30">
@@ -47,7 +46,9 @@
     <img src="icons/mailpng.png" alt="mail" height="30">
 </a>
 
-<br><a href="../#/?id=publications" style="text-decoration: none;">
+<br>
+<!--
+<a href="../#/?id=publications" style="text-decoration: none;">
     <button style="background-color: #6FCF97; color: white; border-radius: 10px; border: none; padding: 10px 20px; font-size: 16px; font-weight: bold; transition: background-color 0.3s ease; position: relative; top: -25px;">
         Publications
     </button>
@@ -62,7 +63,7 @@
         CV
     </button>
 </a>
-
+-->
 <style>
     button:hover {
     }
