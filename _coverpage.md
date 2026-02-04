@@ -23,8 +23,19 @@
   <span style="font-size:16px; color:#1a73e8;">ALAM</span>
 </a></span>
 
-- <p>I am currently working as an HCI researcher at <a href="http://creative.sogang.ac.kr" style="color:#1a73e8;">Sogang University</a>, where I am responsible for development tasks. At the same time, I am serving as the co-founder and CTO of <a href="http://www.alamvr.com/" style="color:#1a73e8;">ALAM</a>. I previously obtained a Master’s degree in Human-Computer Interaction (HCI) from the <a href="http://creative.sogang.ac.kr" style="color:#1a73e8;">Art&Technology at Sogang University</a>, and a Bachelor's degree in Electrical Engineering from the <a href="https://eng.ssu.ac.kr" style="color:#1a73e8;">College of Engineering at Soongsil University</a>. Additionally, I have professional experience as a semiconductor engineer within the <a href="https://global.canon/en/product/indtech/semicon/" style="color:#1a73e8;">Canon Optics Division</a>.
+- <p style="margin-top:12px;">
+※ The personal website has been newly redesigned. For the latest research and project information, please visit 
+<a href="https://limjy.com" style="color:#1a73e8; font-weight:500;">https://limjy.com</a>.
 </p>
+<p style="margin-top:12px;">
+※ 개인 홈페이지가 새롭게 리뉴얼되었습니다. 최신 연구 및 프로젝트 정보는 
+<a href="https://limjy.com" style="color:#1a73e8; font-weight:500;">https://limjy.com</a> 에서 확인해 주세요.
+</p> 
+<p style="margin-top:12px;">
+※ 個人ホームページが新しくリニューアルされました。最新の研究およびプロジェクト情報は 
+<a href="https://limjy.com" style="color:#1a73e8; font-weight:500;">https://limjy.com</a> にてご確認ください。
+</p>
+
 
 - <p style="font-size: 14px;">Interests: VR/AR, Games, Haptics, Multi Modal, Robotics</p>
 
